@@ -8,5 +8,6 @@ coppa_nafta.md
 # Budini
 
 biancaneve.md
+pinguino.md
 
 Gelateria Padovana
